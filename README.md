@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning machine learning and Julia programming Language
+- 🌱 I’m currently learning machine learning and Rust programming Language
 - 💬 Ask me about any thing
 - 📫 How to reach me: azizi062004@gmail.com
 
