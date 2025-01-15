@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 ![azizi06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizi06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=azizi061&theme=dark)](https://git.io/streak-stats)
+
