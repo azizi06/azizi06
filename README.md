@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning machine learning and Rust programming Language
+and modern c++
 - 💬 Ask me about any thing
 - 📫 How to reach me: azizi062004@gmail.com
 
