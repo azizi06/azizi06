@@ -16,3 +16,5 @@ and modern c++
 
 ![azizi06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizi06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizi06&layout=compact&theme=radical)
