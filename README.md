@@ -9,7 +9,8 @@ Here are some ideas to get you started:
     and **modern C++**
 - 💬 Ask me about any thing
 - 📫 How to reach me: azizi062004@gmail.com
-
+- LinkedIn https://www.linkedin.com/in/mohammed-abdelaziz-azizi/
+- Université de Haute-Alsace,Mulhouse,France (Licence 3)
 ![azizi06's Stats](https://github-readme-stats.vercel.app/api?username=azizi06&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ### 📊 Most Used Languages
